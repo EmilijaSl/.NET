@@ -1,0 +1,15 @@
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\bin\Debug\net6.0\C_Fundamentals_Scott_Allen.exe
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\bin\Debug\net6.0\C_Fundamentals_Scott_Allen.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\bin\Debug\net6.0\C_Fundamentals_Scott_Allen.runtimeconfig.json
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\bin\Debug\net6.0\C_Fundamentals_Scott_Allen.dll
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\bin\Debug\net6.0\C_Fundamentals_Scott_Allen.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.dll
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\refint\C_Fundamentals_Scott_Allen.dll
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\C_Fundamentals_Scott_Allen.genruntimeconfig.cache
+C:\Users\Emilija\Documents\GitHub\.NET\C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen\obj\Debug\net6.0\ref\C_Fundamentals_Scott_Allen.dll

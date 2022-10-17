@@ -1,0 +1,17 @@
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\bin\Debug\net6.0\Infrastyructure.DbLayer.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\bin\Debug\net6.0\Infrastyructure.DbLayer.runtimeconfig.json
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\bin\Debug\net6.0\Infrastyructure.DbLayer.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\bin\Debug\net6.0\Infrastyructure.DbLayer.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\bin\Debug\net6.0\Domain.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\bin\Debug\net6.0\Domain.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.csproj.CopyComplete
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\refint\Infrastyructure.DbLayer.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\Infrastyructure.DbLayer.genruntimeconfig.cache
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastyructure.DbLayer\obj\Debug\net6.0\ref\Infrastyructure.DbLayer.dll

@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution\\MultiProjectSolution.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution.BL\\MultiProjectSolution.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution.BL\\MultiProjectSolution.BL.csproj",
+        "projectName": "MultiProjectSolution.BL",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution.BL\\MultiProjectSolution.BL.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj",
+        "projectName": "MultiProjectSolutions.DB",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution\\MultiProjectSolution.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution\\MultiProjectSolution.csproj",
+        "projectName": "MultiProjectSolution",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution\\MultiProjectSolution.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution.BL\\MultiProjectSolution.BL.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolution.BL\\MultiProjectSolution.BL.csproj"
+              },
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

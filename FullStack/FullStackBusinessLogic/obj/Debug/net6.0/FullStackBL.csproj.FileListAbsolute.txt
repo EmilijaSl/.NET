@@ -1,0 +1,17 @@
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\bin\Debug\net6.0\FullStackBL.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\bin\Debug\net6.0\FullStackBL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\bin\Debug\net6.0\FullStackBL.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\refint\FullStackBL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\ref\FullStackBL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\bin\Debug\net6.0\FullStackDAL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\bin\Debug\net6.0\FullStackDomain.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\bin\Debug\net6.0\FullStackDAL.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\bin\Debug\net6.0\FullStackDomain.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackBusinessLogic\obj\Debug\net6.0\FullStackBL.csproj.CopyComplete

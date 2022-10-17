@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mdGqGnEkexPEE9lpNhJDou4zszML60/5ghrV4GA+FNE6A/kkI69hCDkO3TepOwd+NUszuE1vibMJBFPfWaudPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\MultiProjectSolution\\MultiProjectSolutions.DB\\MultiProjectSolutions.DB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emilija\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

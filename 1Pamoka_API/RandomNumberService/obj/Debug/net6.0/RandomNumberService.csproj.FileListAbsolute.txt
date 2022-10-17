@@ -1,0 +1,12 @@
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\bin\Debug\net6.0\RandomNumberService.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\bin\Debug\net6.0\RandomNumberService.dll
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\bin\Debug\net6.0\RandomNumberService.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\RandomNumberService.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\RandomNumberService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\RandomNumberService.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\RandomNumberService.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\RandomNumberService.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\RandomNumberService.dll
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\refint\RandomNumberService.dll
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\RandomNumberService.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\RandomNumberService\obj\Debug\net6.0\ref\RandomNumberService.dll

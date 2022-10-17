@@ -1,0 +1,12 @@
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\bin\Debug\net6.0\FullStackDomain.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\bin\Debug\net6.0\FullStackDomain.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\bin\Debug\net6.0\FullStackDomain.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\FullStackDomain.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\FullStackDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\FullStackDomain.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\FullStackDomain.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\FullStackDomain.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\FullStackDomain.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\refint\FullStackDomain.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\FullStackDomain.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\FullStackDomain\obj\Debug\net6.0\ref\FullStackDomain.dll

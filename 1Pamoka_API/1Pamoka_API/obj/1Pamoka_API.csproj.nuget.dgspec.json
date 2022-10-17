@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\1Pamoka_API\\1Pamoka_API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\1Pamoka_API\\1Pamoka_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\1Pamoka_API\\1Pamoka_API.csproj",
+        "projectName": "1Pamoka_API",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\1Pamoka_API\\1Pamoka_API.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\1Pamoka_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\BusinessLogic\\BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\BusinessLogic\\BusinessLogic.csproj"
+              },
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\BusinessLogic\\BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\BusinessLogic\\BusinessLogic.csproj",
+        "projectName": "BusinessLogic",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\BusinessLogic\\BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\DataAcces\\DataAcces.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\DataAcces\\DataAcces.csproj"
+              },
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj"
+              },
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\RandomNumberService\\RandomNumberService.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\RandomNumberService\\RandomNumberService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\DataAcces\\DataAcces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\DataAcces\\DataAcces.csproj",
+        "projectName": "DataAcces",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\DataAcces\\DataAcces.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\DataAcces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\RandomNumberService\\RandomNumberService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\RandomNumberService\\RandomNumberService.csproj",
+        "projectName": "RandomNumberService",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\RandomNumberService\\RandomNumberService.csproj",
+        "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\1Pamoka_API\\RandomNumberService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

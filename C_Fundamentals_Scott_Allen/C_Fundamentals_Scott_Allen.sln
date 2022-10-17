@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_Fundamentals_Scott_Allen", "C_Fundamentals_Scott_Allen\C_Fundamentals_Scott_Allen.csproj", "{1B3F6346-9BAF-48FC-82FA-F03AC5B931C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook.Tests", "GradeBook.Tests\GradeBook.Tests.csproj", "{F3D43131-427E-43DF-A9DD-C29E6AF98A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B3F6346-9BAF-48FC-82FA-F03AC5B931C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3F6346-9BAF-48FC-82FA-F03AC5B931C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3F6346-9BAF-48FC-82FA-F03AC5B931C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3F6346-9BAF-48FC-82FA-F03AC5B931C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D43131-427E-43DF-A9DD-C29E6AF98A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D43131-427E-43DF-A9DD-C29E6AF98A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D43131-427E-43DF-A9DD-C29E6AF98A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D43131-427E-43DF-A9DD-C29E6AF98A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BCEDC47-4543-44DF-AE76-916297AD607F}
+	EndGlobalSection
+EndGlobal

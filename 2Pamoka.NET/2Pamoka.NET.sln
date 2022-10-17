@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Pamoka.NET", "2Pamoka.NET\2Pamoka.NET.csproj", "{38BFAA9B-730D-4A84-AF69-7168057EFF50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAcces", "DataAcces\DataAcces.csproj", "{D4A1EE4E-31AD-463D-9C5B-7EAE0294E4E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{42E5D0D3-9FCD-4A58-B678-B5B253501DFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{56D0F377-40D2-4685-8B50-75F90F1BB230}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "DTO\DTO.csproj", "{77E61FEF-AB6E-4DF1-B6CA-9631B567C903}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{96F04F1E-43B0-4B5A-AA4E-A721FB4AA9C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicUnitTests", "BusinessLogicUnitTests\BusinessLogicUnitTests.csproj", "{4F64CBF7-822E-4964-B783-D036E3C1025F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BFAA9B-730D-4A84-AF69-7168057EFF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BFAA9B-730D-4A84-AF69-7168057EFF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BFAA9B-730D-4A84-AF69-7168057EFF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BFAA9B-730D-4A84-AF69-7168057EFF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A1EE4E-31AD-463D-9C5B-7EAE0294E4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A1EE4E-31AD-463D-9C5B-7EAE0294E4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A1EE4E-31AD-463D-9C5B-7EAE0294E4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A1EE4E-31AD-463D-9C5B-7EAE0294E4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E5D0D3-9FCD-4A58-B678-B5B253501DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E5D0D3-9FCD-4A58-B678-B5B253501DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E5D0D3-9FCD-4A58-B678-B5B253501DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E5D0D3-9FCD-4A58-B678-B5B253501DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D0F377-40D2-4685-8B50-75F90F1BB230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D0F377-40D2-4685-8B50-75F90F1BB230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D0F377-40D2-4685-8B50-75F90F1BB230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D0F377-40D2-4685-8B50-75F90F1BB230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E61FEF-AB6E-4DF1-B6CA-9631B567C903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E61FEF-AB6E-4DF1-B6CA-9631B567C903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E61FEF-AB6E-4DF1-B6CA-9631B567C903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E61FEF-AB6E-4DF1-B6CA-9631B567C903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F64CBF7-822E-4964-B783-D036E3C1025F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F64CBF7-822E-4964-B783-D036E3C1025F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F64CBF7-822E-4964-B783-D036E3C1025F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F64CBF7-822E-4964-B783-D036E3C1025F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F64CBF7-822E-4964-B783-D036E3C1025F} = {96F04F1E-43B0-4B5A-AA4E-A721FB4AA9C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B593B59A-EC84-4363-853A-EFB54A5157FB}
+	EndGlobalSection
+EndGlobal

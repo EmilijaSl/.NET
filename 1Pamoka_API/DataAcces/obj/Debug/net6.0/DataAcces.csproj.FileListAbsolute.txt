@@ -1,0 +1,15 @@
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\bin\Debug\net6.0\DataAcces.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\bin\Debug\net6.0\DataAcces.dll
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\bin\Debug\net6.0\DataAcces.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\bin\Debug\net6.0\Models.dll
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\bin\Debug\net6.0\Models.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.csproj.CopyComplete
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.dll
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\refint\DataAcces.dll
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\DataAcces.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\1Pamoka_API\DataAcces\obj\Debug\net6.0\ref\DataAcces.dll

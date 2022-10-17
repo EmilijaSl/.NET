@@ -1,0 +1,15 @@
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\bin\Debug\net6.0\Infrastucture.HttpLayer.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\bin\Debug\net6.0\Infrastucture.HttpLayer.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\bin\Debug\net6.0\Infrastucture.HttpLayer.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\bin\Debug\net6.0\Domain.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\bin\Debug\net6.0\Domain.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.csproj.CopyComplete
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\refint\Infrastucture.HttpLayer.dll
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\Infrastucture.HttpLayer.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\WeatherBackend\Infrastucture.HttpLayer\obj\Debug\net6.0\ref\Infrastucture.HttpLayer.dll

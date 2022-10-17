@@ -1,0 +1,17 @@
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\bin\Debug\net6.0\FullStackDAL.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\bin\Debug\net6.0\FullStackDAL.runtimeconfig.json
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\bin\Debug\net6.0\FullStackDAL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\bin\Debug\net6.0\FullStackDAL.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\bin\Debug\net6.0\FullStackDomain.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\bin\Debug\net6.0\FullStackDomain.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.csproj.CopyComplete
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\refint\FullStackDAL.dll
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\FullStackDAL.genruntimeconfig.cache
+C:\Users\Emilija\Documents\GitHub\.NET\FullStack\DataAccessLayer\obj\Debug\net6.0\ref\FullStackDAL.dll

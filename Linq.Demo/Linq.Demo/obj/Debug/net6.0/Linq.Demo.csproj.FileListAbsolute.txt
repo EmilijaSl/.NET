@@ -1,0 +1,15 @@
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\bin\Debug\net6.0\Linq.Demo.exe
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\bin\Debug\net6.0\Linq.Demo.deps.json
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\bin\Debug\net6.0\Linq.Demo.runtimeconfig.json
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\bin\Debug\net6.0\Linq.Demo.dll
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\bin\Debug\net6.0\Linq.Demo.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.csproj.AssemblyReference.cache
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.AssemblyInfoInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.AssemblyInfo.cs
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.dll
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\refint\Linq.Demo.dll
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.pdb
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\Linq.Demo.genruntimeconfig.cache
+C:\Users\Emilija\Documents\GitHub\.NET\Linq.Demo\Linq.Demo\obj\Debug\net6.0\ref\Linq.Demo.dll
