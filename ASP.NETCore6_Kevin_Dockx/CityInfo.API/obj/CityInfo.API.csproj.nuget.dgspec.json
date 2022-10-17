@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\CityInfo\\CityInfo.API\\CityInfo.API.csproj": {}
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\ASP.NETCore6_Kevin_Dockx\\CityInfo.API\\CityInfo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\CityInfo\\CityInfo.API\\CityInfo.API.csproj": {
+    "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\ASP.NETCore6_Kevin_Dockx\\CityInfo.API\\CityInfo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+        "projectUniqueName": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\ASP.NETCore6_Kevin_Dockx\\CityInfo.API\\CityInfo.API.csproj",
         "projectName": "CityInfo.API",
-        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+        "projectPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\ASP.NETCore6_Kevin_Dockx\\CityInfo.API\\CityInfo.API.csproj",
         "packagesPath": "C:\\Users\\Emilija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\CityInfo\\CityInfo.API\\obj\\",
+        "outputPath": "C:\\Users\\Emilija\\Documents\\GitHub\\.NET\\ASP.NETCore6_Kevin_Dockx\\CityInfo.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Emilija\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
